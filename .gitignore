@@ -1,0 +1,4 @@
+# Project exclude paths
+/POO/Julian/Desafios/.gradle/
+/POO/Julian/Desafios/build/
+/POO/Julian/Desafios/build/classes/java/main/
